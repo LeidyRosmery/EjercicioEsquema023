@@ -1,0 +1,21 @@
+#div01{
+  width: 130px;
+  height: 130px;
+  background-color: #ca3c25;
+  }
+#div02{
+  width: 90px;
+  height: 90px;
+  background-color: #1d1a05;
+  top: 20px;
+  left: 20px;
+  position: relative;
+}
+#div03{
+  width: 50px;
+  height: 50px;
+  background-color: yellow;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
